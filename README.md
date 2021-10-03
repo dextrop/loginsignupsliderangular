@@ -1,6 +1,6 @@
 # Login Signup Slider Theme
 
-View project demo at https://dextrop.github.io/loginsignupsliderangular/
+[Click](https://dextrop.github.io/loginsignupsliderangular/) to view demo
 
 ## Intregration Steps
 
