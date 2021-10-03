@@ -11,11 +11,12 @@ Once done user can either reuse the component directly by renaming it
 #### Or 
 can add `loginsignupsliderlayout` to app.module.ts. Create your component login
 
-```shell
+```
 ng g c login
 ```
 
 inside login component edit login.component.html
-```html
+
+```
 <app-loginsignupsliderlayout></app-loginsignupsliderlayout>
 ```
