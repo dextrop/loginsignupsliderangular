@@ -1,6 +1,6 @@
 # Login Signup Slider Theme
 
-[ImageDemo](!https://ask-jennie-assets.s3.ap-south-1.amazonaws.com/login-signup-slider.png)
+<img src="https://ask-jennie-assets.s3.ap-south-1.amazonaws.com/login-signup-slider.png" style="width:90%; margin-left:5%;">
 
 [Click](https://dextrop.github.io/loginsignupsliderangular/) to view demo
 
